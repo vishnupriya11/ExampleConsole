@@ -1,0 +1,5 @@
+C:\Users\vgoddumuri\Documents\Visual Studio 2015\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\vgoddumuri\Documents\Visual Studio 2015\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\vgoddumuri\Documents\Visual Studio 2015\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\vgoddumuri\Documents\Visual Studio 2015\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\vgoddumuri\Documents\Visual Studio 2015\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
